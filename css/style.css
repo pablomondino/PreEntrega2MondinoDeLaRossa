@@ -259,6 +259,7 @@ footer h2 {
 
 }
 
+
 /*
 #imagenes-departamentos .boton-1 {
     position: relative;
@@ -288,6 +289,29 @@ footer h2 {
     left: 70px;
 
 }
+
+.depto__imagen{
+    border: darkblue solid 2px;
+
+
+}
+
+
+.depto__boton{
+    background-color: rgb(31, 72, 239);
+    color: white;
+    font-size: 15px;
+    padding: 8px;
+    border-radius: 10px;
+    border: solid rgb(3, 3, 60) 2px;
+    box-shadow: 50px 3px 57px 18px rgba(0, 0, 0, 0.65);
+
+}
+
+.depto__boton:hover{
+   background-color: green;
+}
+
 
 /*
 .depto2 {

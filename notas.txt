@@ -1,0 +1,5 @@
+
+En el proyecto he usado metodología <>bem en la seccion
+ principal (index)
+
+en la seccion de imagenes de departamentos

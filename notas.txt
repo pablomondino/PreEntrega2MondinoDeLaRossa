@@ -3,5 +3,7 @@ En el proyecto he usado metodología <>bem en la seccion
  principal (index)
 
 en la seccion de imagenes de departamentos
+
 ESTE PROYECTO ABRÍ DE MI NEGOCIO PARA VERLO.
 lO CLONÉ Y CLONA EL PROYECTO Y LA CARPETA Y EL CONTENIDO
+

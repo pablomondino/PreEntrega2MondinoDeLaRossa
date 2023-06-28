@@ -243,6 +243,7 @@ footer h2 {
     width: 40vw;
     position: relative;
     left: 70px;
+    width: 100%;
 }
 
 .depto__imagen {
